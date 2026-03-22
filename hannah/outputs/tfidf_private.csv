@@ -1,0 +1,31 @@
+term,tdidf_score,segment
+dishes_and_silverware private_entrance,0.0835,private_room
+bright,0.0835,private_room
+suite charming,0.0835,private_room
+bright private,0.0835,private_room
+charming neighborhood,0.0835,private_room
+private_entrance patio_or_balcony,0.0835,private_room
+private suite,0.0835,private_room
+neighborhood hair_dryer,0.0835,private_room
+neighborhood,0.0835,private_room
+suite,0.0835,private_room
+fire_extinguisher wifi,0.0835,private_room
+free_street_parking luggage_dropoff_allowed,0.0835,private_room
+hot_water essentials,0.0835,private_room
+wifi refrigerator,0.0835,private_room
+hair_dryer shampoo,0.0835,private_room
+private_entrance,0.0831,private_room
+shampoo hot_water,0.0831,private_room
+air_conditioning heating,0.0831,private_room
+extra_pillows_and_blankets iron,0.0819,private_room
+iron tv,0.0819,private_room
+backyard free_parking_on_premises,0.0819,private_room
+private,0.0815,private_room
+refrigerator microwave,0.0812,private_room
+microwave dishes_and_silverware,0.0812,private_room
+charming,0.0812,private_room
+tv air_conditioning,0.0807,private_room
+hangers bed_linens,0.079,private_room
+heating smoke_alarm,0.079,private_room
+free_parking_on_premises free_street_parking,0.079,private_room
+essentials hangers,0.079,private_room

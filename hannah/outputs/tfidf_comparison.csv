@@ -1,0 +1,56 @@
+term,tdidf_score_entire,segment,tdidf_score_private,distinctive_entire,distinctive_private
+air_conditioning heating,0,0,0.0831,-0.0831,0.0831
+backyard,0.0361,entire_place,0,0.0361,-0.0361
+backyard free_parking_on_premises,0,0,0.0819,-0.0819,0.0819
+bed_linens,0.0382,entire_place,0,0.0382,-0.0382
+bed_linens extra_pillows_and_blankets,0.0377,entire_place,0,0.0377,-0.0377
+bright,0,0,0.0835,-0.0835,0.0835
+bright private,0,0,0.0835,-0.0835,0.0835
+carbon_monoxide_alarm fire_extinguisher,0.0381,entire_place,0,0.0381,-0.0381
+charming,0,0,0.0812,-0.0812,0.0812
+charming neighborhood,0,0,0.0835,-0.0835,0.0835
+cooking_basics dishes_and_silverware,0.0389,entire_place,0,0.0389,-0.0389
+dedicated_workspace,0.0365,entire_place,0,0.0365,-0.0365
+dishes_and_silverware private_entrance,0,0,0.0835,-0.0835,0.0835
+dishwasher,0.0376,entire_place,0,0.0376,-0.0376
+dishwasher stove,0.0376,entire_place,0,0.0376,-0.0376
+dryer,0.0383,entire_place,0,0.0383,-0.0383
+dryer essentials,0.0386,entire_place,0,0.0386,-0.0386
+essentials hangers,0.0399,entire_place,0.079,-0.0391,0.0391
+extra_pillows_and_blankets,0.0378,entire_place,0,0.0378,-0.0378
+extra_pillows_and_blankets iron,0,0,0.0819,-0.0819,0.0819
+fire_extinguisher,0.0379,entire_place,0,0.0379,-0.0379
+fire_extinguisher wifi,0,0,0.0835,-0.0835,0.0835
+first_aid_kit,0.0361,entire_place,0,0.0361,-0.0361
+free_parking_on_premises free_street_parking,0.036,entire_place,0.079,-0.043,0.043000000000000003
+free_street_parking,0.0371,entire_place,0,0.0371,-0.0371
+free_street_parking luggage_dropoff_allowed,0,0,0.0835,-0.0835,0.0835
+hair_dryer shampoo,0,0,0.0835,-0.0835,0.0835
+hangers bed_linens,0.0388,entire_place,0.079,-0.0402,0.0402
+heating smoke_alarm,0,0,0.079,-0.079,0.079
+hot_water essentials,0,0,0.0835,-0.0835,0.0835
+iron tv,0,0,0.0819,-0.0819,0.0819
+kitchen refrigerator,0.0393,entire_place,0,0.0393,-0.0393
+long_term_stays_allowed,0.0375,entire_place,0,0.0375,-0.0375
+microwave cooking_basics,0.0392,entire_place,0,0.0392,-0.0392
+microwave dishes_and_silverware,0,0,0.0812,-0.0812,0.0812
+neighborhood,0,0,0.0835,-0.0835,0.0835
+neighborhood hair_dryer,0,0,0.0835,-0.0835,0.0835
+oven,0.0383,entire_place,0,0.0383,-0.0383
+patio_or_balcony,0.0364,entire_place,0,0.0364,-0.0364
+private,0,0,0.0815,-0.0815,0.0815
+private suite,0,0,0.0835,-0.0835,0.0835
+private_entrance,0.0372,entire_place,0.0831,-0.0459,0.045899999999999996
+private_entrance patio_or_balcony,0,0,0.0835,-0.0835,0.0835
+refrigerator microwave,0.0396,entire_place,0.0812,-0.0416,0.0416
+shampoo,0.0383,entire_place,0,0.0383,-0.0383
+shampoo hot_water,0,0,0.0831,-0.0831,0.0831
+stove,0.0384,entire_place,0,0.0384,-0.0384
+stove oven,0.0387,entire_place,0,0.0387,-0.0387
+suite,0,0,0.0835,-0.0835,0.0835
+suite charming,0,0,0.0835,-0.0835,0.0835
+tv air_conditioning,0,0,0.0807,-0.0807,0.0807
+washer,0.0383,entire_place,0,0.0383,-0.0383
+washer dryer,0.0383,entire_place,0,0.0383,-0.0383
+wifi dedicated_workspace,0.0364,entire_place,0,0.0364,-0.0364
+wifi refrigerator,0,0,0.0835,-0.0835,0.0835

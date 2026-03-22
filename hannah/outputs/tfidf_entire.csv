@@ -1,0 +1,31 @@
+term,tdidf_score,segment
+essentials hangers,0.0399,entire_place
+refrigerator microwave,0.0396,entire_place
+kitchen refrigerator,0.0393,entire_place
+microwave cooking_basics,0.0392,entire_place
+cooking_basics dishes_and_silverware,0.0389,entire_place
+hangers bed_linens,0.0388,entire_place
+stove oven,0.0387,entire_place
+dryer essentials,0.0386,entire_place
+stove,0.0384,entire_place
+oven,0.0383,entire_place
+shampoo,0.0383,entire_place
+washer dryer,0.0383,entire_place
+dryer,0.0383,entire_place
+washer,0.0383,entire_place
+bed_linens,0.0382,entire_place
+carbon_monoxide_alarm fire_extinguisher,0.0381,entire_place
+fire_extinguisher,0.0379,entire_place
+extra_pillows_and_blankets,0.0378,entire_place
+bed_linens extra_pillows_and_blankets,0.0377,entire_place
+dishwasher stove,0.0376,entire_place
+dishwasher,0.0376,entire_place
+long_term_stays_allowed,0.0375,entire_place
+private_entrance,0.0372,entire_place
+free_street_parking,0.0371,entire_place
+dedicated_workspace,0.0365,entire_place
+patio_or_balcony,0.0364,entire_place
+wifi dedicated_workspace,0.0364,entire_place
+first_aid_kit,0.0361,entire_place
+backyard,0.0361,entire_place
+free_parking_on_premises free_street_parking,0.036,entire_place
