@@ -1,9 +1,9 @@
 import numpy as np
 import pandas as pd
 
-calendarrates = pd.read_csv("C:/Users/tosbo/Downloads/calendarrates.csv")
-listings = pd.read_csv("C:/Users/tosbo/Downloads/listings.csv")
-reviews = pd.read_csv("C:/Users/tosbo/Downloads/reviews.csv")
+calendarrates = pd.read_csv("")
+listings = pd.read_csv("")
+reviews = pd.read_csv("")
 
 #Join on listing_id
 airroi = calendarrates.merge(listings, left_on='listing_id', right_on='listing_id')
@@ -57,7 +57,7 @@ airroi['min_nights'] = airroi['min_nights'].fillna(0)
 airroi['min_nights_avg'] = airroi['min_nights_avg'].fillna(0)
 
 #Drop meaningless features
-airroi = airroi.drop(['cover_photo_url', 'date_y', 'reviewers', 'listing_name', 'currency', 'host_name', 'room_type'], axis=1)
+airroi = airroi.drop(['cover_photo_url', 'date_y', 'reviewers', 'currency', 'host_name'], axis=1)
 
 #Download csv
 airroi.to_csv('airroi.csv', index=False)
