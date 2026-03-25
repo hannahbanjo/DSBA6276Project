@@ -169,15 +169,15 @@ for segment in ['entire_home', 'private_room']:
     print(seg_corr.head(10)[['term', 'corr_occupancy', 'corr_avg_rate']].to_string(index=False))
 
 # save results
-entire_house_terms.to_csv('hannah/outputs/tfidf_entire.csv', index=False)
-private_room_terms.to_csv('hannah/outputs/tfidf_private.csv', index=False)
-merged.to_csv('hannah/outputs/tfidf_comparison.csv', index=False)
+entire_house_terms.to_csv('nlp/outputs/tfidf_entire.csv', index=False)
+private_room_terms.to_csv('nlp/outputs/tfidf_private.csv', index=False)
+merged.to_csv('nlp/outputs/tfidf_comparison.csv', index=False)
 
 # full correlation table - useful for Week 2 when we build a predictive model
-corr_df.to_csv('hannah/outputs/term_performance_correlations.csv', index=False)
+corr_df.to_csv('nlp/outputs/term_performance_correlations.csv', index=False)
 
 # save full dataframe with corpus for future reference
-df.to_csv('hannah/outputs/listings_with_corpus.csv', index=False)
+df.to_csv('nlp/outputs/listings_with_corpus.csv', index=False)
 
 print("\nAll outputs saved. Week 1 complete.")
 
