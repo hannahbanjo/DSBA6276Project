@@ -1,0 +1,4 @@
+total_units,stable_core_units,premium_upside_units,premium_share,expected_ttm_revenue,expected_annual_volatility,risk_adjusted_score,portfolio_adr,portfolio_occupancy,portfolio_revpar,expected_off_peak_revenue,recommendation_note
+10,7,3,0.3,319962.527,20275.8402,15.7805,189.953,0.4315,79.2866,176700.21,70/30 mix keeps the portfolio occupancy-led while adding premium upside.
+15,10,5,0.3333,486024.8915,25295.8397,19.2136,194.6486,0.4273,80.2425,267903.51,A one-third premium sleeve lifts revenue without making volatility dominant.
+20,14,6,0.3,639925.054,28674.3682,22.317,189.953,0.4315,79.2866,353400.42,"At 20 units, six premium homes adds upside while fourteen stable homes anchor resilience."

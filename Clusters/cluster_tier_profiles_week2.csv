@@ -1,0 +1,3 @@
+cluster_id,cluster_label,listings,share_of_inventory,guests_mean,bedrooms_mean,baths_mean,cleaning_fee_mean,reviews_mean,rating_mean,superhost_share,professional_mgmt_share,adr_mean,occupancy_mean,revpar_mean,ttm_revenue_mean,l90d_revenue_mean,avg_monthly_revenue,revenue_std_monthly,revenue_cv,risk_adjusted_return,off_peak_revenue,shoulder_revenue,shoulder_to_off_peak_revenue_lift
+0,Stable Core,152,0.6909,3.5,1.4474,1.1349,73.3947,262.2961,4.8675,0.7961,0.1974,147.6928,0.4692,70.6836,28347.5921,5347.0724,1413.4587,1505.0468,1.2649,0.8943,1329.842,1549.2632,219.4212
+1,Premium Upside,68,0.3091,7.5735,3.2794,2.4559,150.6912,152.8824,4.8262,0.5588,0.1618,288.5603,0.3435,99.3603,40509.7941,7035.9118,1990.2073,2476.7573,1.4997,0.7851,1805.3745,2142.9772,337.6027

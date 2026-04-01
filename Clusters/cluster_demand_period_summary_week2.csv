@@ -1,0 +1,7 @@
+cluster_id,cluster_label,demand_period,demand_period_adr,demand_period_occupancy,demand_period_revenue
+0,Stable Core,off-peak,151.4494,0.3058,1329.842
+0,Stable Core,peak,162.9552,0.2923,1411.8374
+0,Stable Core,shoulder,161.9847,0.3095,1549.2632
+1,Premium Upside,off-peak,294.8952,0.2147,1805.3745
+1,Premium Upside,peak,316.8975,0.2083,2055.3233
+1,Premium Upside,shoulder,308.235,0.2304,2142.9772
